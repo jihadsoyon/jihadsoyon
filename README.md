@@ -45,9 +45,8 @@
 <h2>Connect with me!</h2>
 
 <p>
-  <a href="https://www.facebook.com/roman.sayon.9/">Facebook</a> • 
+  <a href="https://www.facebook.com/jihad.soyon/">Facebook</a> • 
   <a href="https://www.linkedin.com/in/jihad-soyon/">LinkedIn</a> • 
-  <a href="https://www.instagram.com/jihad_soyon/">Instagram</a>
 </p>
 
 <h2>For Business Inquiries</h2>
