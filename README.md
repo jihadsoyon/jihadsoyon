@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f0f60ee2-9bda-4606-813c-d3f5ab50ec22" alt="Profile Banner" width="90%" style="border-radius: 15px; max-width: 1000px;" />
+  <img src="https://github.com/user-attachments/assets/cb8c2eac-86f6-499d-9044-314d741801bc" alt="Profile Banner" width="90%" style="border-radius: 15px; max-width: 1000px;" />
 </div>
-
 
 <br>
 
