@@ -95,9 +95,7 @@ const jihad = {
   name      : "Jihad Soyon",
   location  : "Jamalpur, Bangladesh 🇧🇩",
   role      : "MERN Stack Developer",
-  learning  : ["Next.js", "TypeScript"],
-  building  : ["Personal Portfolio", "GitHub Issue Tracker"],
-  goal      : "Remote job by 2026 🎯",
+  learning  : ["Problem Solving, MernStack"],
   contact   : "jihadsoyon@gmail.com",
   available : true,
 };
@@ -116,13 +114,14 @@ const jihad = {
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **Backend & DB**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Tools**
 
