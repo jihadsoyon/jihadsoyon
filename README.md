@@ -137,8 +137,8 @@ const jihad = {
 ## `$ cat stats.json`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihadsoyon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9f5&icon_color=00f5a0&text_color=c9d1d9&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadsoyon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9f5&text_color=c9d1d9&hide=html,css" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jihadsoyon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9f5&icon_color=00f5a0&text_color=c9d1d9&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jihadsoyon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9f5&text_color=c9d1d9&hide=html,css" height="165"/> 
 </div>
 
 <div align="center">
