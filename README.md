@@ -69,7 +69,7 @@
   <!-- Subtitle -->
   <text x="450" y="135" font-family="'Courier New', monospace" font-size="15"
         text-anchor="middle" fill="#00d9f5" letter-spacing="4" opacity="0">
-    &lt; MERN STACK DEVELOPER /&gt;
+    &lt; FULL STACK DEVELOPER /&gt;
     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.5s" fill="freeze"/>
   </text>
 
