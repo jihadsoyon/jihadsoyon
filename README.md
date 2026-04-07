@@ -94,7 +94,7 @@
 const jihad = {
   name      : "Jihad Soyon",
   location  : "Jamalpur, Bangladesh 🇧🇩",
-  role      : "MERN Stack Developer",
+  role      : "Full Stack Developer",
   learning  : ["Problem Solving, MernStack"],
   contact   : "jihadsoyon@gmail.com",
   available : true,
