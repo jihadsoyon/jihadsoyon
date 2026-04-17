@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://ibb.co.com/XkS9nnjY" />
+  <img src="https://i.ibb.co/xks9nnj/banner.png" />
 </p>
 
 <!-- ================= INTRO ================= -->
