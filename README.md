@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:1f2937&text=Jihad%20Soyon&fontColor=00d9f5&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Open%20to%20Remote&descAlignY=55&descSize=16" />
+  <img src="https://ibb.co.com/XkS9nnjY" />
 </p>
 
 <!-- ================= INTRO ================= -->
@@ -59,27 +59,6 @@ const jihad = {
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-🔹 **Project Name 1**
-Short description of what it does
-🔗 Live: https://your-live-link.com
-💻 Code: https://github.com/your-repo
-
-🔹 **Project Name 2**
-Short description of what it does
-🔗 Live: https://your-live-link.com
-💻 Code: https://github.com/your-repo
-
-🔹 **Project Name 3**
-Short description of what it does
-🔗 Live: https://your-live-link.com
-💻 Code: https://github.com/your-repo
 
 ---
 
