@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://i.ibb.co/xks9nnj/banner.png" />
+  <img width="1360" height="768" alt="kF9PC" src="https://github.com/user-attachments/assets/c8fa4a27-77a5-4a6a-b570-ca68adde3403" />
 </p>
 
 <!-- ================= INTRO ================= -->
