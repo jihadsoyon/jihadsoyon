@@ -11,7 +11,7 @@
 <p align="center">
 💻 Full Stack Developer (MERN) <br/>
 🚀 Passionate about problem solving & building real-world applications <br/>
-🌍 Open to remote opportunities
+🌍 Open to opportunities
 </p>
 
 ---
