@@ -6,12 +6,12 @@
 
 <!-- ================= INTRO ================= -->
 
-<h1 align="center">👋 Hi, I'm Jihad Soyon</h1>
+<h2 align="center">👋 Hi, I'm Jihad Soyon</h2>
 
 <p align="center">
-💻 MERN Stack Developer (Learning & Building) <br/>
-🚀 Currently diving into Next.js & advanced backend concepts <br/>
-🎯 Goal: Remote Developer Job by 2026
+💻 Full Stack Developer (MERN) <br/>
+🚀 Passionate about problem solving & building real-world applications <br/>
+🌍 Open to opportunities
 </p>
 
 ---
@@ -24,9 +24,9 @@
 const jihad = {
   name: "Jihad Soyon",
   location: "Bangladesh 🇧🇩",
-  role: "MERN Stack Developer",
-  currentFocus: ["Next.js", "Backend Scaling", "Problem Solving"],
-  goal: "Become a job-ready full stack developer",
+  role: "Full Stack Developer (MERN)",
+  learning: ["Problem Solving", "Advanced MERN"],
+  focus: "Building scalable & clean web applications",
   contact: "jihadsoyon@gmail.com",
   available: true,
 };
@@ -36,7 +36,7 @@ const jihad = {
 
 <!-- ================= SKILLS ================= -->
 
-## ⚡ Tech Stack
+## ⚡ Skills
 
 ### 🖥️ Frontend
 
@@ -50,7 +50,7 @@ const jihad = {
 ### ⚙️ Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square\&logo=express\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square\&logo=express\&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 
@@ -62,36 +62,18 @@ const jihad = {
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
-
-## 🚧 Currently Working On
-
-* 🔥 Building real-world MERN projects
-* ⚡ Learning Next.js deeply (App Router + SSR)
-* 🧠 Improving problem-solving skills (DSA basics)
-
----
-
 <!-- ================= STATS ================= -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihadsoyon&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadsoyon&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jihadsoyon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9f5&icon_color=00f5a0&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadsoyon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9f5&text_color=c9d1d9" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihadsoyon&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihadsoyon&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-<!-- ================= PROJECT HIGHLIGHT ================= -->
-
-## 🚀 Featured Work
-
-👉 Check my pinned repositories below for real projects built with React & MERN stack.
 
 ---
 
