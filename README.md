@@ -68,27 +68,25 @@ const jihad = {
 
 <p align="center">
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (Primary + Fallback) -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jihadsoyon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jihadsoyon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 
-  <!-- Streak Stats -->
-
-  <img src="https://streak-stats.demolab.com?user=jihadsoyon&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=jihadsoyon&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 
 </p>
 
 <p align="center">
 
-  <!-- Most Used Languages -->
+  <!-- Languages -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadsoyon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadsoyon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 
 </p>
 
 <p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=jihadsoyon&label=Profile%20Views&color=0e75b6&style=flat" />
+  <!-- Profile Views (Stable) -->
+  <img src="https://komarev.com/ghpvc/?username=jihadsoyon&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
