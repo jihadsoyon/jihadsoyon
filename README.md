@@ -67,8 +67,28 @@ const jihad = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihadsoyon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9f5&icon_color=00f5a0&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadsoyon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9f5&text_color=c9d1d9" height="165"/>
+
+  <!-- GitHub Stats -->
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jihadsoyon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+
+  <!-- Streak Stats -->
+
+  <img src="https://streak-stats.demolab.com?user=jihadsoyon&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+
+  <!-- Most Used Languages -->
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadsoyon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=jihadsoyon&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
