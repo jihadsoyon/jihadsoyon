@@ -1,94 +1,171 @@
-<!-- ================= HEADER BANNER ================= -->
+<!-- ========================= HEADER / BANNER ========================= -->
 
 <p align="center">
-  <img width="1361" height="768" alt="IMG_20260417_205940" src="https://github.com/user-attachments/assets/2e166133-9bfc-4791-9d0a-9cb5d61b76cc" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:111827,100:1E293B&text=Jihad%20Soyon&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Full%20Stack%20JS%20Developer&descAlignY=55&animation=fadeIn" /> -->
+<img width="1361" height="768" alt="IMG_20260417_205940" src="https://github.com/user-attachments/assets/0882d47f-2903-4770-8d4e-cc974ed8703d" />
+
 </p>
 
-<!-- ================= INTRO ================= -->
-
-<h2 align="center">👋 Hi, I'm Jihad Soyon</h2>
+<!-- ========================= PROFILE VIEWS ========================= -->
 
 <p align="center">
-💻 Full Stack Developer (MERN) <br/>
-🚀 Passionate about problem solving & building real-world applications <br/>
-🌍 Open to opportunities
+  <img src="https://komarev.com/ghpvc/?username=jihadsoyon&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+<!-- ========================= INTRO ========================= -->
+
+<h1 align="center">Hi, I'm Jihad Soyon</h1>
+
+<h3 align="center">
+Aspiring MERN Stack Developer passionate about building modern, responsive, and user-friendly web applications.
+</h3>
+
+<p align="center">
+Focused on becoming a professional web developer by 2026, InshaAllah.
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+# 💫 About Me
 
-## 🧑‍💻 About Me
+- 🌱 Currently learning **Next.js, TypeScript, Backend Development & Advanced React**
+- 💻 Passionate about **Frontend & Full Stack JavaScript Development**
+- 🚀 Building projects to improve real-world development skills
+- 🌍 Interested in **Remote Web Development Opportunities**
+- 🤝 Open to collaboration and learning from other developers
+- ⚡ Believe in consistency, discipline, and continuous learning
 
-```ts
-const jihad = {
-  name: "Jihad Soyon",
-  location: "Bangladesh 🇧🇩",
-  role: "Full Stack Developer (MERN)",
-  learning: ["Problem Solving", "Advanced MERN"],
-  focus: "Building scalable & clean web applications",
-  contact: "jihadsoyon@gmail.com",
-  available: true,
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/jihadsoyon" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/jihad-soyon/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://x.com/jihadsoyon0" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+
+<a href="https://www.facebook.com/jihad.soyon/" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" />
+
+</p>
+
+---
+
+# 📚 Current Learning Journey
+
+```javascript
+const jihadSoyon = {
+  learning: [
+    "Next.js",
+    "TypeScript",
+    "Backend Development",
+    "Advanced React",
+    "API Integration",
+    "Authentication & Security"
+  ],
+  
+  goals: "Become a Professional Remote MERN Developer by 2026",
+  
+  funFact: "I believe consistency beats motivation 🚀"
 };
 ```
 
 ---
 
-<!-- ================= SKILLS ================= -->
+# 📊 GitHub Analytics
 
-## ⚡ Skills
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jihadsoyon&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jihadsoyon&theme=tokyonight" />
+</p>
 
-### 🖥️ Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-
-### ⚙️ Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square\&logo=express\&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jihadsoyon&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jihadsoyon&theme=tokyonight&utcOffset=6" />
+</p>
 
 ---
-
-<!-- ================= STATS ================= -->
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-  <img src="https://streak-stats.demolab.com?user=jihadsoyon&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+
+
+<img width="49%" src="https://streak-stats.demolab.com?user=jihadsoyon&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+---
+
+# 📉 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jihadsoyon&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🎯 Goals For 2026
+
+- ✅ Become job-ready in MERN Stack Development
+- ✅ Build professional full-stack projects
+- ✅ Improve problem-solving skills
+- ✅ Contribute consistently on GitHub
+- ✅ Get a remote developer job
+- ✅ Master modern web technologies
+
+---
+
+# ✨ Developer Quote
+
+<p align="center">
+  
+> "If you want it, go and get it — In the name of ALLAH."
 
 </p>
 
 ---
 
-<!-- ================= CONTACT ================= -->
-
-## 🤝 Connect With Me
+# 🛠️ Tools I Use
 
 <p align="center">
-<a href="https://linkedin.com/in/jihad-soyon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://facebook.com/jihad.soyon"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="mailto:jihadsoyon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://jihadsoyon.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+
+<img src="https://skillicons.dev/icons?i=vscode,github,git,npm,figma,postman" />
+
 </p>
 
 ---
 
-<!-- ================= FOOTER ================= -->
+# 🤝 Open To
+
+- Remote Frontend Opportunities
+- MERN Stack Collaboration
+- Open Source Contribution
+- Learning & Networking
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jihadsoyon&label=Profile%20Views&color=00d9f5&style=flat-square" />
+
+### 💻 “Code. Learn. Build. Repeat.”
+
 </p>
