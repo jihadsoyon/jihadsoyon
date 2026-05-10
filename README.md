@@ -55,6 +55,10 @@ Focused on becoming a professional web developer by 2026, InshaAllah.
 <a href="https://www.facebook.com/jihad.soyon/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" />
 </a>
+
+<a href="mailto:jihadsoyon@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
 </p>
 
 ---
