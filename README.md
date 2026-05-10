@@ -86,7 +86,7 @@ const jihadSoyon = {
     "Authentication & Security"
   ],
   
-  goals: "Become a Professional Remote MERN Developer by 2026",
+  goals: "Become a Professional Full Stack Developer by 2026",
   
   funFact: "I believe consistency beats motivation 🚀"
 };
