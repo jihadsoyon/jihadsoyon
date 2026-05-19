@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:111827,100:1E293B&text=Jihad%20Soyon&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Full%20Stack%20JS%20Developer&descAlignY=55&animation=fadeIn" /> -->
-<img width="1361" height="768" alt="IMG_20260417_205940" src="https://github.com/user-attachments/assets/0882d47f-2903-4770-8d4e-cc974ed8703d" />
+<img width="1983" height="793" alt="ChatGPT Image May 18, 2026, 09_00_41 PM" src="https://github.com/user-attachments/assets/56253087-e3f0-4c0c-80ac-8e105f680634" />
 
 </p>
 
