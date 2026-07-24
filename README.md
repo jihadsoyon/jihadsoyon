@@ -94,19 +94,6 @@ const jihadSoyon = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jihadsoyon&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jihadsoyon&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jihadsoyon&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jihadsoyon&theme=tokyonight&utcOffset=6" />
-</p>
-
----
 # 📊 GitHub Stats
 
 <p align="center">
