@@ -1,6 +1,6 @@
 <!-- ========================= HEADER / BANNER ========================= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,25:203A43,50:2C5364,75:0F4C75,100:38BDF8&text=JIHAD%20SOYON&fontColor=ffffff&fontSize=55&fontAlignY=35&animation=fadeIn&fontWeight=800&stroke=38BDF8&strokeWidth=1&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,25:203A43,50:2C5364,75:0F4C75,100:38BDF8&text=JIHAD%20SOYON&fontColor=ffffff&fontSize=55&fontAlignY=35&animation=fadeIn&fontWeight=800&stroke=38BDF8&strokeWidth=1&desc=Mern%20Stack%20Developer&descAlignY=58&descSize=22&descAlign=50" />
 </p>
 
 <p align="center">
@@ -9,9 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jihadsoyon&label=Profile%20Views&color=38BDF8&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/jihadsoyon?label=Followers&style=flat-square&color=38BDF8&logo=github&logoColor=white" />
-  &nbsp;
+   &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjihadsoyon&label=Public%20Repos&query=%24.public_repos&color=38BDF8&style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -39,7 +37,7 @@
 <tr>
 <td width="70%" valign="top">
 
-- 🧑‍🎓 A CS student walking the MERN / Next.js path, one deployed project at a time
+- 🧑‍🎓 A student walking the MERN / Next.js path, one deployed project at a time
 - 💻 Code → Debug → Deploy → **Repeat** 🔁
 - 🏗️ Full stack dev: **Next.js 15 (App Router), Express.js, MongoDB, Better Auth**
 - 🩺 Shipped **MediQueue** — a tutor-booking platform (Vercel + Render, real auth in prod)
