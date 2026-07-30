@@ -44,8 +44,11 @@
 - 📫 Reach me: **jihadsoyon@gmail.com**
 
 </td>
-<td width="30%" align="center">
+<!-- <td width="30%" align="center" bgcolor="#0F2027">
 <img src="https://octodex.github.com/images/Professortocat_v2.png" width="180" />
+</td> -->
+<td width="30%" align="center" bgcolor="#0F2027">
+<img src="https://octodex.github.com/images/Robotocat.png" width="180" />
 </td>
 </tr>
 </table>
