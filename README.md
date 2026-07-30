@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2600&pause=600&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=%3E+const+dev+%3D+%7B+role%3A+%27Full+Stack+Developer%27+%7D%3B;%3E+stack%3A+%5B%27Next.js%27%2C+%27Express%27%2C+%27MongoDB%27%5D;%3E+rule%3A+%27always+latest+stable%2C+never+downgrade%27;%3E+status%3A+%27shipping...%27+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jihadsoyon&label=Profile%20Views&color=38BDF8&style=flat-square" />
    &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjihadsoyon&label=Public%20Repos&query=%24.public_repos&color=38BDF8&style=flat-square&logo=git&logoColor=white" />
