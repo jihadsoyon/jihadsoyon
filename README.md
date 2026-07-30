@@ -1,6 +1,6 @@
 <!-- ========================= HEADER / BANNER ========================= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,25:203A43,50:2C5364,75:0F4C75,100:38BDF8&text=JIHAD%20SOYON&fontColor=ffffff&fontSize=55&fontAlignY=35&animation=fadeIn&fontWeight=800&stroke=38BDF8&strokeWidth=1&desc=Mern%20Stack%20Developer&descAlignY=58&descSize=22&descAlign=50" />
+  <img src="./assets/banner.svg" width="100%" alt="Jihad Soyon Banner" />
 </p>
 
 <p align="center">
