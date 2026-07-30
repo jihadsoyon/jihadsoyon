@@ -47,9 +47,13 @@
 <!-- <td width="30%" align="center" bgcolor="#0F2027">
 <img src="https://octodex.github.com/images/Professortocat_v2.png" width="180" />
 </td> -->
-<td width="30%" align="center" bgcolor="#0F2027">
+<!-- <td width="30%" align="center" bgcolor="#0F2027">
 <img src="https://octodex.github.com/images/Robotocat.png" width="180" />
-</td>
+</td> -->
+<td width="30%" align="center" bgColor="#0F2027">
+<img width="500" height="500"  alt="github_imoji_cuti-removebg-preview" src="https://github.com/user-attachments/assets/d1ee4bd5-7c11-438a-b2ab-fd422b0b29cb" />
+</td> 
+
 </tr>
 </table>
 
