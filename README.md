@@ -29,61 +29,84 @@
 
 ## About Me 🧑‍💻
 
-<table>
-<tr>
-<td width="70%" valign="top">
+<img align="right" width="180" alt="github_imoji_cuti" src="https://github.com/user-attachments/assets/d1ee4bd5-7c11-438a-b2ab-fd422b0b29cb" />
 
-<h3>👋 Hi, I'm Jihad Soyon</h3>
+### 👋 Hi, I'm Jihad Soyon
 
-<p>
-I'm <b>Jihad Soyon</b> — a <b>MERN Stack Developer</b> who builds modern,
+I'm **Jihad Soyon** — a **MERN Stack Developer** who builds modern,
 responsive, and scalable web applications with a sharp focus on
-<b>clean UI</b> and <b>real-world performance</b>.
-</p>
+**clean UI** and **real-world performance**.
 
-<p>
-I work with <b>React</b>, <b>Next.js</b>, <b>Node.js</b>, <b>MongoDB</b>,
-and <b>TypeScript</b> — and I bring professional experience in
-<b>SEO</b> & <b>Online Reputation Management</b>, giving me a unique edge
+I work with **React**, **Next.js**, **Node.js**, **MongoDB**,
+and **TypeScript** — and I bring professional experience in
+**SEO** & **Online Reputation Management**, giving me a unique edge
 in building products that are found, trusted, and used.
-</p>
 
-<p>
 I'm collaborative, async-friendly, and treat every project like it's my own.
 Always learning, always shipping, and always improving.
-</p>
 
-</td>
-<!-- <td width="30%" align="center" bgcolor="#0F2027">
-<img src="https://octodex.github.com/images/Professortocat_v2.png" width="180" />
-</td> -->
-<!-- <td width="30%" align="center" bgcolor="#0F2027">
-<img src="https://octodex.github.com/images/Robotocat.png" width="180" />
-</td> -->
-<td width="30%" align="center" bgColor="#0F2027">
-<img width="500" height="500"  alt="github_imoji_cuti-removebg-preview" src="https://github.com/user-attachments/assets/d1ee4bd5-7c11-438a-b2ab-fd422b0b29cb" />
-</td> 
-
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
 ## Tech Stack 🛠️
 
+**Foundation**
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-0F2027?style=for-the-badge&logo=html5&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/CSS3-0F2027?style=for-the-badge&logo=css3&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/JavaScript-0F2027?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/TypeScript-0F2027?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0F2027?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/ES6+-0F2027?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
+</p>
+
+**Frontend**
+<p align="left">
 <img src="https://img.shields.io/badge/React-0F2027?style=for-the-badge&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F2027?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/TypeScript-0F2027?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Next.js-0F2027?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8" />
+</p>
+
+**Backend**
+<p align="left">
 <img src="https://img.shields.io/badge/Node.js-0F2027?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Express.js-0F2027?style=for-the-badge&logo=express&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Modular_Pattern-0F2027?style=for-the-badge&logo=graphql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/API_Integration-0F2027?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+</p>
+
+**Database**
+<p align="left">
 <img src="https://img.shields.io/badge/MongoDB-0F2027?style=for-the-badge&logo=mongodb&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Mongoose%20%2F%20ODM-0F2027?style=for-the-badge&logo=mongoose&logoColor=38BDF8" />
+</p>
+
+**UI Libraries**
+<p align="left">
+<img src="https://img.shields.io/badge/Hero_UI-0F2027?style=for-the-badge&logo=heroui&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/ShadCN-0F2027?style=for-the-badge&logo=shadcnui&logoColor=38BDF8" />
+</p>
+
+**Auth & Security**
+<p align="left">
 <img src="https://img.shields.io/badge/Better_Auth-0F2027?style=for-the-badge&logo=lock&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Role_Based_Access_Control-0F2027?style=for-the-badge&logo=shield&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Firebase-0F2027?style=for-the-badge&logo=firebase&logoColor=38BDF8" />
+</p>
+
+**Advanced Concepts**
+<p align="left">
+<img src="https://img.shields.io/badge/DOM_vs_BOM-0F2027?style=for-the-badge&logo=html5&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AI_Mindset_Development-0F2027?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AI_Integration-0F2027?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AI_Assisted_Coding-0F2027?style=for-the-badge&logo=githubcopilot&logoColor=38BDF8" />
+</p>
+
+**Payment & Testing**
+<p align="left">
+<img src="https://img.shields.io/badge/Stripe-0F2027?style=for-the-badge&logo=stripe&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SSLCommerz-0F2027?style=for-the-badge&logo=letsencrypt&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Testing-0F2027?style=for-the-badge&logo=testinglibrary&logoColor=38BDF8" />
 </p>
 
 ---
