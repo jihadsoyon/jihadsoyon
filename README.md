@@ -33,15 +33,25 @@
 <tr>
 <td width="70%" valign="top">
 
-- 🧑‍🎓 A student walking the MERN / Next.js path, one deployed project at a time
-- 💻 Code → Debug → Deploy → **Repeat** 🔁
-- 🏗️ Full stack dev: **Next.js 15 (App Router), Express.js, MongoDB, Better Auth**
-- 🩺 Shipped **MediQueue** — a tutor-booking platform (Vercel + Render, real auth in prod)
-- 🎓 Shipped **SkillSphere** — a full learning platform with HeroUI + Motion
-- 📐 Team: pure JavaScript, no TypeScript — yet
-- 📌 Rule I live by: **always the latest stable version**, never a downgrade
-- 🤙 Looking to collaborate on projects involving **Next.js, Express & MongoDB**
-- 📫 Reach me: **jihadsoyon@gmail.com**
+<h3>👋 Hi, I'm Jihad Soyon</h3>
+
+<p>
+I'm <b>Jihad Soyon</b> — a <b>MERN Stack Developer</b> who builds modern,
+responsive, and scalable web applications with a sharp focus on
+<b>clean UI</b> and <b>real-world performance</b>.
+</p>
+
+<p>
+I work with <b>React</b>, <b>Next.js</b>, <b>Node.js</b>, <b>MongoDB</b>,
+and <b>TypeScript</b> — and I bring professional experience in
+<b>SEO</b> & <b>Online Reputation Management</b>, giving me a unique edge
+in building products that are found, trusted, and used.
+</p>
+
+<p>
+I'm collaborative, async-friendly, and treat every project like it's my own.
+Always learning, always shipping, and always improving.
+</p>
 
 </td>
 <!-- <td width="30%" align="center" bgcolor="#0F2027">
