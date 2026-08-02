@@ -31,7 +31,7 @@
 
 <img align="right" width="180" alt="github_imoji_cuti" src="https://github.com/user-attachments/assets/d1ee4bd5-7c11-438a-b2ab-fd422b0b29cb" />
 
-### 👋 Hi, I'm Jihad Soyon
+### 👋 Hi, 
 
 I'm **Jihad Soyon** — a **MERN Stack Developer** who builds modern,
 responsive, and scalable web applications with a sharp focus on
