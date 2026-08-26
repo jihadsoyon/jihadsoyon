@@ -85,6 +85,8 @@ Always learning, always shipping, and always improving.
 <p align="left">
 <img src="https://img.shields.io/badge/Hero_UI-0F2027?style=for-the-badge&logo=heroui&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/ShadCN-0F2027?style=for-the-badge&logo=shadcnui&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/DaisyUI-0F2027?style=for-the-badge&logo=daisyui&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Framer_Motion-0F2027?style=for-the-badge&logo=framer&logoColor=38BDF8" />
 </p>
 
 **Auth & Security**
