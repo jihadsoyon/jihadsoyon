@@ -134,7 +134,7 @@ Always learning, always shipping, and always improving.
 <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jihadsoyon&layout=compact&hide_border=true&theme=dark&bg_color=0F2027&title_color=38BDF8&text_color=c9d1d9" />
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jihadsoyon&theme=react-dark&hide_border=true&bg_color=0F2027&color=38BDF8&line=38BDF8&point=ffffff" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=jihadsoyon&theme=react-dark&hide_border=true&bg_color=0F2027&color=38BDF8&line=38BDF8&point=ffffff" />
 </td>
 </tr>
 </table>
