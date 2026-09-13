@@ -49,6 +49,47 @@ Always learning, always shipping, and always improving.
 
 ---
 
+## What I Do 🧭
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+### 🎨
+**Frontend Architecture**
+<br/>
+<sub>React & Next.js interfaces built for scale, clarity, and reusable component systems</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🧩
+**Full-Stack Delivery**
+<br/>
+<sub>End-to-end MERN products — API design, MongoDB schemas, auth, and deployment</sub>
+
+</td>
+<td align="center" width="25%">
+
+### ⚡
+**Performance & SEO**
+<br/>
+<sub>Core Web Vitals and technical SEO, backed by hands-on reputation management experience</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+**AI-Integrated Features**
+<br/>
+<sub>Shipping AI-assisted workflows and LLM-powered product features</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Tech Stack 🛠️
 
 <table width="100%">
@@ -152,41 +193,15 @@ Always learning, always shipping, and always improving.
 
 ---
 
-## Featured Projects 🚀
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 📚 Fable — Full-Stack Ebook Platform
-A production ebook platform with purchases, bookmarks, writer verification, and analytics — built on a Next.js client and an Express 5 API.
-
-<p align="left">
-<img src="https://img.shields.io/badge/Next.js-0F2027?style=flat-square&logo=nextdotjs&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Express_5-0F2027?style=flat-square&logo=express&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/MongoDB-0F2027?style=flat-square&logo=mongodb&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Better_Auth-0F2027?style=flat-square&logo=lock&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Stripe-0F2027?style=flat-square&logo=stripe&logoColor=38BDF8" />
-</p>
-
-<a href="https://fable-client-gamma.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0F2027" /></a>
-<a href="https://fable-server-blush.vercel.app"><img src="https://img.shields.io/badge/API-0F2027?style=flat-square&logo=vercel&logoColor=38BDF8" /></a>
-
-</td>
-</tr>
-</table>
-
-**More builds**
-
-| Project | Focus | Stack |
-|---|---|---|
-| **MediQueue** | Tutor / appointment booking platform | Next.js, Express, MongoDB, Better Auth |
-| **SkillSphere** | Online learning platform | Next.js 15, Better Auth, MongoDB, Motion |
-| **DevPulse** | GitHub analytics dashboard | React, GitHub API |
-| **AI StudyMate** | Student learning platform with an AI chatbot | React, Cohere AI |
-
----
-
 <p align="center">
 <em>"Code. Debug. Deploy. Repeat." — jihadsoyon</em>
+</p>
+
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jihadsoyon/jihadsoyon/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jihadsoyon/jihadsoyon/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jihadsoyon/jihadsoyon/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
