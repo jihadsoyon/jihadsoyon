@@ -51,65 +51,76 @@ Always learning, always shipping, and always improving.
 
 ## Tech Stack 🛠️
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 **Foundation**
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-0F2027?style=for-the-badge&logo=html5&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/CSS3-0F2027?style=for-the-badge&logo=css3&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/JavaScript-0F2027?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/ES6+-0F2027?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-</p>
-
-**Frontend**
-<p align="left">
-<img src="https://img.shields.io/badge/React-0F2027?style=for-the-badge&logo=react&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0F2027?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/TypeScript-0F2027?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Next.js-0F2027?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/HTML5-0F2027?style=flat-square&logo=html5&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/CSS3-0F2027?style=flat-square&logo=css3&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/JavaScript-0F2027?style=flat-square&logo=javascript&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/ES6+-0F2027?style=flat-square&logo=javascript&logoColor=38BDF8" />
 </p>
 
 **Backend**
 <p align="left">
-<img src="https://img.shields.io/badge/Node.js-0F2027?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Express.js-0F2027?style=for-the-badge&logo=express&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Modular_Pattern-0F2027?style=for-the-badge&logo=graphql&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/API_Integration-0F2027?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
-</p>
-
-**Database**
-<p align="left">
-<img src="https://img.shields.io/badge/MongoDB-0F2027?style=for-the-badge&logo=mongodb&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Mongoose%20%2F%20ODM-0F2027?style=for-the-badge&logo=mongoose&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Node.js-0F2027?style=flat-square&logo=nodedotjs&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Express.js-0F2027?style=flat-square&logo=express&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Modular_Pattern-0F2027?style=flat-square&logo=graphql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/API_Integration-0F2027?style=flat-square&logo=fastapi&logoColor=38BDF8" />
 </p>
 
 **UI Libraries**
 <p align="left">
-<img src="https://img.shields.io/badge/Hero_UI-0F2027?style=for-the-badge&logo=heroui&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/ShadCN-0F2027?style=for-the-badge&logo=shadcnui&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/DaisyUI-0F2027?style=for-the-badge&logo=daisyui&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Framer_Motion-0F2027?style=for-the-badge&logo=framer&logoColor=38BDF8" />
-</p>
-
-**Auth & Security**
-<p align="left">
-<img src="https://img.shields.io/badge/Better_Auth-0F2027?style=for-the-badge&logo=lock&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Role_Based_Access_Control-0F2027?style=for-the-badge&logo=shield&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Firebase-0F2027?style=for-the-badge&logo=firebase&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Hero_UI-0F2027?style=flat-square&logo=heroui&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/ShadCN-0F2027?style=flat-square&logo=shadcnui&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/DaisyUI-0F2027?style=flat-square&logo=daisyui&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Framer_Motion-0F2027?style=flat-square&logo=framer&logoColor=38BDF8" />
 </p>
 
 **Advanced Concepts**
 <p align="left">
-<img src="https://img.shields.io/badge/DOM_vs_BOM-0F2027?style=for-the-badge&logo=html5&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/AI_Mindset_Development-0F2027?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/AI_Integration-0F2027?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/AI_Assisted_Coding-0F2027?style=for-the-badge&logo=githubcopilot&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/DOM_vs_BOM-0F2027?style=flat-square&logo=html5&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AI_Mindset_Development-0F2027?style=flat-square&logo=openai&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AI_Integration-0F2027?style=flat-square&logo=openai&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AI_Assisted_Coding-0F2027?style=flat-square&logo=githubcopilot&logoColor=38BDF8" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+**Frontend**
+<p align="left">
+<img src="https://img.shields.io/badge/React-0F2027?style=flat-square&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F2027?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/TypeScript-0F2027?style=flat-square&logo=typescript&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Next.js-0F2027?style=flat-square&logo=nextdotjs&logoColor=38BDF8" />
+</p>
+
+**Database**
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-0F2027?style=flat-square&logo=mongodb&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Mongoose%20%2F%20ODM-0F2027?style=flat-square&logo=mongoose&logoColor=38BDF8" />
+</p>
+
+**Auth & Security**
+<p align="left">
+<img src="https://img.shields.io/badge/Better_Auth-0F2027?style=flat-square&logo=lock&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Role_Based_Access_Control-0F2027?style=flat-square&logo=shield&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Firebase-0F2027?style=flat-square&logo=firebase&logoColor=38BDF8" />
 </p>
 
 **Payment & Testing**
 <p align="left">
-<img src="https://img.shields.io/badge/Stripe-0F2027?style=for-the-badge&logo=stripe&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/SSLCommerz-0F2027?style=for-the-badge&logo=letsencrypt&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Testing-0F2027?style=for-the-badge&logo=testinglibrary&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Stripe-0F2027?style=flat-square&logo=stripe&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SSLCommerz-0F2027?style=flat-square&logo=letsencrypt&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Testing-0F2027?style=flat-square&logo=testinglibrary&logoColor=38BDF8" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -138,6 +149,41 @@ Always learning, always shipping, and always improving.
 </td>
 </tr>
 </table>
+
+---
+
+## Featured Projects 🚀
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 📚 Fable — Full-Stack Ebook Platform
+A production ebook platform with purchases, bookmarks, writer verification, and analytics — built on a Next.js client and an Express 5 API.
+
+<p align="left">
+<img src="https://img.shields.io/badge/Next.js-0F2027?style=flat-square&logo=nextdotjs&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Express_5-0F2027?style=flat-square&logo=express&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/MongoDB-0F2027?style=flat-square&logo=mongodb&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Better_Auth-0F2027?style=flat-square&logo=lock&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Stripe-0F2027?style=flat-square&logo=stripe&logoColor=38BDF8" />
+</p>
+
+<a href="https://fable-client-gamma.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0F2027" /></a>
+<a href="https://fable-server-blush.vercel.app"><img src="https://img.shields.io/badge/API-0F2027?style=flat-square&logo=vercel&logoColor=38BDF8" /></a>
+
+</td>
+</tr>
+</table>
+
+**More builds**
+
+| Project | Focus | Stack |
+|---|---|---|
+| **MediQueue** | Tutor / appointment booking platform | Next.js, Express, MongoDB, Better Auth |
+| **SkillSphere** | Online learning platform | Next.js 15, Better Auth, MongoDB, Motion |
+| **DevPulse** | GitHub analytics dashboard | React, GitHub API |
+| **AI StudyMate** | Student learning platform with an AI chatbot | React, Cohere AI |
 
 ---
 
