@@ -142,7 +142,6 @@ Always learning, always shipping, and always improving.
 **Database**
 <p align="left">
 <img src="https://img.shields.io/badge/MongoDB-0F2027?style=flat-square&logo=mongodb&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Mongoose%20%2F%20ODM-0F2027?style=flat-square&logo=mongoose&logoColor=38BDF8" />
 </p>
 
 **Auth & Security**
