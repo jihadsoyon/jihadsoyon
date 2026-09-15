@@ -108,7 +108,6 @@ Always learning, always shipping, and always improving.
 <p align="left">
 <img src="https://img.shields.io/badge/Node.js-0F2027?style=flat-square&logo=nodedotjs&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Express.js-0F2027?style=flat-square&logo=express&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Modular_Pattern-0F2027?style=flat-square&logo=graphql&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/API_Integration-0F2027?style=flat-square&logo=fastapi&logoColor=38BDF8" />
 </p>
 
