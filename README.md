@@ -23,6 +23,7 @@
 <a href="https://x.com/jihadsoyon0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.facebook.com/jihad.soyon/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="mailto:jihadsoyon@gmail.com"><img src="https://img.shields.io/badge/Gmail-2C5364?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://jihad-soyon.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
 
 ---
