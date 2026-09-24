@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: jihadsoyon
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#EC4899&color_dots=#0D1B2A,#3A86FF,#8338EC,#FF006E,#FFBE0B
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F5FF&color_dots=#161B22,#00F5FF,#7C3AED,#EC4899,#FACC15
+            dist/github-contribution-grid-snake.svg?color_snake=#00F5FF&color_dots=#0D1B2A,#164E63,#0891B2,#06B6D4,#22D3EE
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F5FF&color_dots=#0D1117,#0E7490,#0891B2,#06B6D4,#67E8F9
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
